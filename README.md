@@ -17,7 +17,6 @@ My second game developed using the Godot Engine 🚀
 - `Builds/` → Exported versions (ignored in git, uploaded via Releases)
 
 ## 🔹 Screenshots
-![Gameplay Screenshot](docs/screenshot.png)
-
+![Gameplay Screenshot](https://raw.githubusercontent.com/Meghana-M-Gowda/My_Second_Game/84dbdf5c91127043cd9877afc0ca44728a605c24/Screenshot.png.png)
 ---
 ✨ Created with [Godot Engine](https://godotengine.org/)
